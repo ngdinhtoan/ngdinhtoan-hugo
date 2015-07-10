@@ -10,3 +10,8 @@
     border-radius: 80px; /* Opera 10.5, IE 9 */
     /*-moz-border-radius: 30px;  Disabled for FF1+ */
 }
+
+.copyright {
+    font-weight: 200;
+    font-size: 0.6em;
+}
