@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700&subset=latin,latin-ext);
+
+.avatar-frame {
+    border: 1px solid #c7b89e;
+}
+
+.avatar-frame, .avatar-frame img {
+    margin: 0px auto;
+    width: 150px;
+    height: 150px;
+    -webkit-border-radius: 80px; /* Saf3+, Chrome */
+    border-radius: 80px; /* Opera 10.5, IE 9 */
+    /*-moz-border-radius: 30px;  Disabled for FF1+ */
+}
