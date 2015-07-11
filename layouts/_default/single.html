@@ -18,6 +18,8 @@
         <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
         {{ .Content }}
     </div>
+
+    {{ partial "foot.html" . }}
 </div>
 
 {{ partial "ga.html" . }}
