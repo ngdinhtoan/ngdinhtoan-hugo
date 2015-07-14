@@ -58,9 +58,9 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
-  -webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.5);
-  -moz-box-shadow:    0px 2px 2px 0px rgba(0,0,0,0.5);
-  box-shadow:         0px 2px 2px 0px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0 0 10px #333;
+  -moz-box-shadow: 0 0 10px #333;
+  box-shadow: 0 0 10px #333;
 }
 
 @media (min-width: 48em) {
@@ -71,9 +71,9 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
-    -webkit-box-shadow: 2px 0px 2px 0px rgba(0,0,0,0.5);
-    -moz-box-shadow:    2px 0px 2px 0px rgba(0,0,0,0.5);
-    box-shadow:         2px 0px 2px 0px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0 0 10px #333;
+    -moz-box-shadow: 0 0 10px #333;
+    box-shadow: 0 0 10px #333;
   }
 }
 

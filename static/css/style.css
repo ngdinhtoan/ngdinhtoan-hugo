@@ -21,3 +21,17 @@
         display: block;
     }
 }
+
+.github-fork-ribbon-wrapper {
+    display: none;
+}
+
+.right .github-fork-ribbon {
+    background-color: #167;
+}
+
+@media (min-width: 48em) {
+    .github-fork-ribbon-wrapper {
+        display: block;
+    }
+}
