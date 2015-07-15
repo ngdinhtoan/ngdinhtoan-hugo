@@ -2,6 +2,8 @@
 date = "2015-07-02T21:34:43+07:00"
 draft = false
 title = "SlackCmd - A simple server to receive and handle Slack Commands written in GO"
+description = "A simple server to receive and handle Slack Commands written in GO"
+keywords = "Golang, GO, Slack, Slack Command, Slack Bot"
 project_url = "https://github.com/ngdinhtoan/slackcmd"
 +++
 
