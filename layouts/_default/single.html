@@ -16,6 +16,7 @@
         <article>
             <header>
                 <h1>{{ .Title }}</h1>
+                <p>{{ .Description }}</p>
                 <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
             </header>
             {{ .Content }}

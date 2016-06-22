@@ -1,7 +1,7 @@
 +++
 date = "2015-07-08T21:13:53+07:00"
 draft = false
-title = "Hari - Generate GO struct from JSON"
+title = "Hari"
 description = "A command to generate GO struct from JSON files"
 keywords = "Golang, JSON, Struct, Convert"
 project_url = "https://github.com/ngdinhtoan/hari"
