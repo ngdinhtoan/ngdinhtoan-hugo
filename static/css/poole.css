@@ -154,6 +154,7 @@ code,
 pre {
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     border-radius: 3px;
+    letter-spacing: normal;
 }
 
 code {
