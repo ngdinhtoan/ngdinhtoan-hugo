@@ -115,6 +115,21 @@ strong {
 }
 
 /* Lists */
+ul.posts {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    list-style-type: none;
+    padding-left: inherit;
+}
+
+ul.posts li span a {
+    font-size: 2em;
+}
+
+ul.posts li span time {
+    font-size: 12px;
+}
+
 ul, ol, dl {
     margin-top: 0;
     margin-bottom: 1rem;
