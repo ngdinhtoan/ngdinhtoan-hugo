@@ -12,11 +12,11 @@
     {{ with .Keywords }}<meta name="keywords" content="{{.}}">{{ end }}
 
     <!-- CSS -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/normalize.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/poole.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/syntax.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/hyde.css">
-    <link href='//fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.1.1/gh-fork-ribbon.min.css" />
     <!--[if lt IE 9]>
